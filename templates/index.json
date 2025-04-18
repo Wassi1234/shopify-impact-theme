@@ -143,7 +143,7 @@
           "type": "heading",
           "settings": {
             "text": "Résultat Avant/Après",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -160,6 +160,20 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_DcR7Af": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -167,6 +181,7 @@
     "logo_list_cTykHT",
     "rich_text_7XAHFp",
     "image_with_text_overlay_pKjBHQ",
-    "rich_text_bbpk4K"
+    "rich_text_bbpk4K",
+    "image_with_text_overlay_DcR7Af"
   ]
 }
