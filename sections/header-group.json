@@ -34,12 +34,20 @@
             "text": "Satisfait ou remboursé",
             "url": ""
           }
+        },
+        "message_ibn9Yi": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite à domicile",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_jYcqBE",
-        "message_6hEXJj"
+        "message_6hEXJj",
+        "message_ibn9Yi"
       ],
       "settings": {
         "enable_sticky": false,
