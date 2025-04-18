@@ -43,20 +43,23 @@
         "logo_8dURpr": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_dt6hXF": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Travel___Leisure_Co._logo.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_rRGnAB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/the_strategist_icon.1500x1500_800x_306908da-c515-4d17-9633-b4656f747e15.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +67,7 @@
         "logo_eBpFnJ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo.svg",
             "logo_width": 120,
             "link": ""
           }
