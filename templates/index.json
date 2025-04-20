@@ -281,7 +281,7 @@
         "liquid_awy4wX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p> <div style=\"display: flex; align-items: center; font-size: 14px; font-family: sans-serif;\">\n  <!-- Étoiles -->\n  <div style=\"display: flex; gap: 2px; margin-right: 6px;\">\n    {% for i in (1..5) %}\n      <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"#00c851\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M12 2L14.9 8.63L22 9.27L16.5 13.97L18.18 21L12 17.27L5.82 21L7.5 13.97L2 9.27L9.1 8.63L12 2Z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <!-- Note et avis -->\n  <span style=\"color: #333;\">4.8 <span style=\"color: #999;\">(589 avis)</span></span>\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px; font-family: sans-serif;\">\n  <!-- Étoiles -->\n  <div style=\"display: flex; gap: 2px; margin-right: 6px;\">\n    {% for i in (1..5) %}\n      <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"#00c851\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M12 2L14.9 8.63L22 9.27L16.5 13.97L18.18 21L12 17.27L5.82 21L7.5 13.97L2 9.27L9.1 8.63L12 2Z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <!-- Note et avis -->\n  <span style=\"color: #333;\">4.8 <span style=\"color: #999;\">(589 avis)</span></span>\n</div>"
           }
         },
         "title_eBFU9a": {
@@ -376,18 +376,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "custom_liquid_UgRa8d": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p> <div style=\"display: flex; align-items: center; font-size: 14px; font-family: sans-serif;\">\n  <!-- Étoiles -->\n  <div style=\"display: flex; gap: 2px; margin-right: 6px;\">\n    {% for i in (1..5) %}\n      <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"#00c851\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M12 2L14.9 8.63L22 9.27L16.5 13.97L18.18 21L12 17.27L5.82 21L7.5 13.97L2 9.27L9.1 8.63L12 2Z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <!-- Note et avis -->\n  <span style=\"color: #333;\">4.8 <span style=\"color: #999;\">(589 avis)</span></span>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -398,7 +386,6 @@
     "rich_text_bbpk4K",
     "image_with_text_overlay_DcR7Af",
     "multi_column_agjUMn",
-    "featured_product_fM4YaM",
-    "custom_liquid_UgRa8d"
+    "featured_product_fM4YaM"
   ]
 }
