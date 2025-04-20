@@ -358,7 +358,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-04-20_a_03.58.10.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
