@@ -120,6 +120,36 @@
         "text_color": ""
       }
     },
+    "video_ryjebA": {
+      "type": "video",
+      "blocks": {
+        "play_VK643P": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_VCjBm9": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_VK643P",
+        "heading_VCjBm9"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image_with_text_overlay_pKjBHQ": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -161,32 +191,17 @@
         "text_color": ""
       }
     },
-    "video_ryjebA": {
-      "type": "video",
-      "blocks": {
-        "play_VK643P": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_VCjBm9": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_VK643P",
-        "heading_VCjBm9"
-      ],
+    "image_with_text_overlay_DcR7Af": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "sm",
-        "video": "shopify://files/videos/Packing the Large Landon Carryall. Designed to fit a 16” laptop, a pair of sneaks, headphones, your matching Hunter Toiletry Pouch, and more..mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/EB1CF208-658C-4D55-A9E3-41CABE56B178.png",
+        "mobile_image": "shopify://shop_images/EB1CF208-658C-4D55-A9E3-41CABE56B178.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -556,9 +571,10 @@
     "image_with_text_overlay_exfMr8",
     "logo_list_cTykHT",
     "rich_text_7XAHFp",
+    "video_ryjebA",
     "image_with_text_overlay_pKjBHQ",
     "rich_text_bbpk4K",
-    "video_ryjebA",
+    "image_with_text_overlay_DcR7Af",
     "multi_column_agjUMn",
     "featured_product_fM4YaM",
     "tabs_dpJQFQ",
