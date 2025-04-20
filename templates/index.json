@@ -290,6 +290,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_zKarkg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #ffe5e5; color: #d00000; padding: 6px 12px; border-radius: 6px; font-size: 14px; font-family: sans-serif; display: inline-block;\">\n  En stock : <strong>3 restants</strong>\n</div>"
+          }
+        },
         "badges_EFpeHF": {
           "type": "badges",
           "settings": {}
@@ -349,6 +355,7 @@
       "block_order": [
         "liquid_awy4wX",
         "title_eBFU9a",
+        "liquid_zKarkg",
         "badges_EFpeHF",
         "price_BNLbHw",
         "rating_AMrywd",
