@@ -520,8 +520,8 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question ?",
         "content": "",
         "text_position": "start",
         "contact_form_size": "large",
