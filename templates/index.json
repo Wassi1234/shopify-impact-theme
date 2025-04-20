@@ -494,13 +494,21 @@
             "title": "Et s’il pleut ? Le néoprène, c’est vraiment fiable ?",
             "content": "<p>Oui, et bien plus que ça.<br/><br/>Le néoprène est naturellement <strong>résistant à l’eau, anti-chocs et très facile d’entretien</strong>.<br/><br/>Il protège vos affaires en cas d’averse, et se nettoie simplement avec un chiffon humide.<br/><br/><strong>Plus besoin d’avoir peur des imprévus météo.</strong></p>"
           }
+        },
+        "item_fAP8k9": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’il passe en cabine pour voyager ?",
+            "content": "<p>Tout à fait. Le Kael Bag en taille M  est le compagnon idéal pour vos déplacements : Format accepté en cabine Sangle arrière pour le fixer sur une valise Assez spacieux pour un week-end entier, sans surcharger Un vrai sac à tout faire, stylé et fonctionnel.</p>"
+          }
         }
       },
       "block_order": [
         "item_TnGCHt",
         "item_96aEc9",
         "item_4gRcVz",
-        "item_Cj6GmL"
+        "item_Cj6GmL",
+        "item_fAP8k9"
       ],
       "settings": {
         "full_width": true,
