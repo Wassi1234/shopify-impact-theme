@@ -512,8 +512,8 @@
         "item_4gRcVz": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Le sac est-il garanti ?",
+            "content": "<p>Oui, vous bénéficiez de notre garantie <strong>Satisfaite ou remboursée 30 jours</strong>. Si vous changez d’avis, retour simple et rapide.</p>"
           }
         }
       },
