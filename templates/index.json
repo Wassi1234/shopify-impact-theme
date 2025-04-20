@@ -434,13 +434,22 @@
             "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
             "page": ""
           }
+        },
+        "tab_738KrN": {
+          "type": "tab",
+          "settings": {
+            "title": "Charges optimale",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_texKNk",
         "tab_xGNm7J",
         "tab_WB97jH",
-        "tab_zdnHmL"
+        "tab_zdnHmL",
+        "tab_738KrN"
       ],
       "settings": {
         "full_width": true,
