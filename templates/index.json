@@ -477,7 +477,7 @@
         "item_96aEc9": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
+            "title": "Il a l’air volumineux… Est-ce que je vais me sentir encombré·e",
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
@@ -487,12 +487,20 @@
             "title": "Est-ce qu’il est bien organisé ? J’en ai marre de chercher mes affaires.",
             "content": "<p>C’est précisément là qu’il fait la différence.<br/><br/>Chaque détail du Landon a été pensé pour <strong>vous faire gagner du temps et de l’espace mental</strong> :</p><p>Compartiment pour ordinateur (jusqu’à 16” selon la taille)</p><p>Poche pour bouteille d’eau</p><p>Trousse amovible pour les petits objets</p><p>Cordon porte-clés intégré</p><p>Fermeture zippée sécurisée</p><p></p><p></p><p></p><p></p><p></p><p></p>"
           }
+        },
+        "item_Cj6GmL": {
+          "type": "item",
+          "settings": {
+            "title": "Et s’il pleut ? Le néoprène, c’est vraiment fiable ?",
+            "content": "<p>Oui, et bien plus que ça.<br/><br/>Le néoprène est naturellement <strong>résistant à l’eau, anti-chocs et très facile d’entretien</strong>.<br/><br/>Il protège vos affaires en cas d’averse, et se nettoie simplement avec un chiffon humide.<br/><br/><strong>Plus besoin d’avoir peur des imprévus météo.</strong></p>"
+          }
         }
       },
       "block_order": [
         "item_TnGCHt",
         "item_96aEc9",
-        "item_4gRcVz"
+        "item_4gRcVz",
+        "item_Cj6GmL"
       ],
       "settings": {
         "full_width": true,
