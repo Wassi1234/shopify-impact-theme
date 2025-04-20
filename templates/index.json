@@ -311,6 +311,14 @@
             "liquid": "<div style=\"background-color: #ffe5e5; color: #d00000; padding: 6px 12px; border-radius: 6px; font-size: 14px; font-family: sans-serif; display: inline-block;\">\n  En stock : <strong>3 restants</strong>\n</div>"
           }
         },
+        "image_XYxRFr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-04-20_a_03.44.00.png",
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "separator_HEjmHC": {
           "type": "separator",
           "settings": {}
@@ -357,6 +365,7 @@
         "badges_EFpeHF",
         "price_BNLbHw",
         "liquid_zKarkg",
+        "image_XYxRFr",
         "separator_HEjmHC",
         "description_XiG4NW",
         "variant_picker_FkjVxw",
