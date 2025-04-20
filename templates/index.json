@@ -120,6 +120,36 @@
         "text_color": ""
       }
     },
+    "video_ryjebA": {
+      "type": "video",
+      "blocks": {
+        "play_VK643P": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_VCjBm9": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_VK643P",
+        "heading_VCjBm9"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image_with_text_overlay_pKjBHQ": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -183,11 +213,11 @@
         "item_dqRkqf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis.webp",
+            "image": "shopify://shop_images/Copie_de_sac_kaki_1.jpg",
             "column_size": "3",
             "title": "Chanssee.R",
             "heading_tag": "h4",
-            "content": "<p><strong>Le sac parfait, vraiment !</strong><br/><br/>J’ai acheté ce sac en pensant qu’il pourrait m’accompagner dans mes deux métiers — l’un dans le domaine de la santé, l’autre dans les marchés publics — et franchement, je ne me suis pas trompée. Il est super pratique : je peux y glisser tout ce dont j’ai besoin pour mes journées bien remplies, sans me sentir encombrée.<br/><br/>Au début, j’avais un doute sur la taille moyenne, j’avais peur qu’il ne soit pas assez grand… mais en réalité, c’est juste ce qu’il me fallait. Ni trop petit, ni trop imposant. Le Kael Bag est hyper bien pensé.<br/><br/>Et là, j’ai vu qu’il existe maintenant en vert — je suis à deux doigts de craquer pour l’emmener en voyage !<br/><br/>En tout cas, je suis vraiment fan de cette marque. Qualité, style, praticité : tout y est.</p>",
+            "content": "<p><strong>Le sac parfait, vraiment !</strong><br/><br/>Je l’utilise au quotidien dans mes deux métiers — santé et marchés publics — et il est juste parfait : pratique, léger, bien pensé. La taille est idéale, ni trop grande ni trop petite. Je suis fan ! Qualité, style, praticité… tout y est. Et le nouveau coloris vert me fait déjà de l’œil pour mes voyages !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -196,7 +226,7 @@
         "item_LkBkxD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_1.webp",
+            "image": "shopify://shop_images/Copie_de_sac_kaki_4.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -209,7 +239,7 @@
         "item_qcnYcM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_2.webp",
+            "image": "shopify://shop_images/Copie_de_sac_kaki_2.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -222,7 +252,7 @@
         "item_eJXcNj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/original_2.webp",
+            "image": "shopify://shop_images/Copie_de_sac_kaki_5.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -248,7 +278,7 @@
         "item_k99rJz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_2_bd4aecb9-2325-491b-82db-8fd77cb55fc1.webp",
+            "image": "shopify://shop_images/Copie_de_sac_kaki_7.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -335,7 +365,7 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_mode": "block",
-            "color_mode": "block_swatch",
+            "color_mode": "color",
             "size_chart_page": ""
           }
         },
@@ -470,61 +500,29 @@
         "item_TnGCHt": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ce sac va vraiment me simplifier la vie ?",
-            "content": "<p>Le Kael Bag est conçu pour vous suivre du matin au soir, sans jamais ralentir votre rythme.<br/><br/>Que vous partiez pour un week-end, un rendez-vous pro ou une séance de sport, ce sac s’adapte à votre emploi du temps.<br/><br/>Résultat : <strong>moins de sacs, moins de stress, plus de fluidité.</strong></p>"
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "item_96aEc9": {
           "type": "item",
           "settings": {
-            "title": "Il a l’air volumineux… Est-ce que je vais me sentir encombré·e",
-            "content": "<p>Le Kael Bag en taille M est conçu pour correspondre à votre quotidien, pas l’inverse.<br/><br/>Sa matière en néoprène est à la fois souple, légère et structurée : il garde sa forme sans être rigide, et vous donne cette impression de \"l’avoir sans le sentir\".<br/><br/>Confortable sur l’épaule, agréable en main, discret sur le corps.</p>"
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "item_4gRcVz": {
           "type": "item",
           "settings": {
-            "title": "Est-ce qu’il est bien organisé ? J’en ai marre de chercher mes affaires.",
-            "content": "<p>C’est précisément là qu’il fait la différence.<br/><br/>Chaque détail du Landon a été pensé pour <strong>vous faire gagner du temps et de l’espace mental</strong> :</p><p>Compartiment pour ordinateur (jusqu’à 16” selon la taille)</p><p>Poche pour bouteille d’eau</p><p>Trousse amovible pour les petits objets</p><p>Cordon porte-clés intégré</p><p>Fermeture zippée sécurisée</p><p></p><p></p><p></p><p></p><p></p><p></p>"
-          }
-        },
-        "item_Cj6GmL": {
-          "type": "item",
-          "settings": {
-            "title": "Et s’il pleut ? Le néoprène, c’est vraiment fiable ?",
-            "content": "<p>Oui, et bien plus que ça.<br/><br/>Le néoprène est naturellement <strong>résistant à l’eau, anti-chocs et très facile d’entretien</strong>.<br/><br/>Il protège vos affaires en cas d’averse, et se nettoie simplement avec un chiffon humide.<br/><br/><strong>Plus besoin d’avoir peur des imprévus météo.</strong></p>"
-          }
-        },
-        "item_fAP8k9": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce qu’il passe en cabine pour voyager ?",
-            "content": "<p>Tout à fait. Le Kael Bag en taille M  est le compagnon idéal pour vos déplacements : Format accepté en cabine Sangle arrière pour le fixer sur une valise Assez spacieux pour un week-end entier, sans surcharger Un vrai sac à tout faire, stylé et fonctionnel.</p>"
-          }
-        },
-        "item_Phgydz": {
-          "type": "item",
-          "settings": {
-            "title": "Comment je l’entretiens ?",
-            "content": "<p>Ultra simple.<br/><br/>Un coup de chiffon humide suffit pour la majorité des tâches. Le néoprène sèche rapidement et ne retient pas les odeurs.<br/><br/><strong>C’est l’un des sacs les plus faciles à vivre au quotidien.</strong></p>"
-          }
-        },
-        "item_EzPzUY": {
-          "type": "item",
-          "settings": {
-            "title": "Le sac est-il garanti ?",
-            "content": "<p>Oui, vous bénéficiez de notre garantie <strong>Satisfaite ou remboursée 30 jours</strong>. Si vous changez d’avis, retour simple et rapide.</p>"
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
       },
       "block_order": [
         "item_TnGCHt",
         "item_96aEc9",
-        "item_4gRcVz",
-        "item_Cj6GmL",
-        "item_fAP8k9",
-        "item_Phgydz",
-        "item_EzPzUY"
+        "item_4gRcVz"
       ],
       "settings": {
         "full_width": true,
@@ -573,6 +571,7 @@
     "image_with_text_overlay_exfMr8",
     "logo_list_cTykHT",
     "rich_text_7XAHFp",
+    "video_ryjebA",
     "image_with_text_overlay_pKjBHQ",
     "rich_text_bbpk4K",
     "image_with_text_overlay_DcR7Af",
