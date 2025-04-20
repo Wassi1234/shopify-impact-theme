@@ -508,6 +508,13 @@
             "title": "Comment je l’entretiens ?",
             "content": "<p>Ultra simple.<br/><br/>Un coup de chiffon humide suffit pour la majorité des tâches. Le néoprène sèche rapidement et ne retient pas les odeurs.<br/><br/><strong>C’est l’un des sacs les plus faciles à vivre au quotidien.</strong></p>"
           }
+        },
+        "item_EzPzUY": {
+          "type": "item",
+          "settings": {
+            "title": "Le sac est-il garanti ?",
+            "content": "<p>Oui, vous bénéficiez de notre garantie <strong>Satisfaite ou remboursée 30 jours</strong>. Si vous changez d’avis, retour simple et rapide.</p>"
+          }
         }
       },
       "block_order": [
@@ -516,7 +523,8 @@
         "item_4gRcVz",
         "item_Cj6GmL",
         "item_fAP8k9",
-        "item_Phgydz"
+        "item_Phgydz",
+        "item_EzPzUY"
       ],
       "settings": {
         "full_width": true,
