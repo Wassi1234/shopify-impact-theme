@@ -196,6 +196,7 @@
         "item_LkBkxD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_1.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -208,6 +209,7 @@
         "item_qcnYcM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_2.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -290,12 +292,6 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_zKarkg": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"background-color: #ffe5e5; color: #d00000; padding: 6px 12px; border-radius: 6px; font-size: 14px; font-family: sans-serif; display: inline-block;\">\n  En stock : <strong>3 restants</strong>\n</div>"
-          }
-        },
         "badges_EFpeHF": {
           "type": "badges",
           "settings": {}
@@ -306,10 +302,10 @@
             "show_taxes_notice": false
           }
         },
-        "rating_AMrywd": {
-          "type": "rating",
+        "liquid_zKarkg": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": "<div style=\"background-color: #ffe5e5; color: #d00000; padding: 6px 12px; border-radius: 6px; font-size: 14px; font-family: sans-serif; display: inline-block;\">\n  En stock : <strong>3 restants</strong>\n</div>"
           }
         },
         "separator_HEjmHC": {
@@ -355,10 +351,9 @@
       "block_order": [
         "liquid_awy4wX",
         "title_eBFU9a",
-        "liquid_zKarkg",
         "badges_EFpeHF",
         "price_BNLbHw",
-        "rating_AMrywd",
+        "liquid_zKarkg",
         "separator_HEjmHC",
         "description_XiG4NW",
         "variant_picker_FkjVxw",
