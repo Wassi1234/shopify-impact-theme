@@ -183,10 +183,11 @@
         "item_dqRkqf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Le sac parfait, vraiment !</strong><br/><br/>J’ai acheté ce sac en pensant qu’il pourrait m’accompagner dans mes deux métiers — l’un dans le domaine de la santé, l’autre dans les marchés publics — et franchement, je ne me suis pas trompée. Il est super pratique : je peux y glisser tout ce dont j’ai besoin pour mes journées bien remplies, sans me sentir encombrée.<br/><br/>Au début, j’avais un doute sur la taille moyenne, j’avais peur qu’il ne soit pas assez grand… mais en réalité, c’est juste ce qu’il me fallait. Ni trop petit, ni trop imposant. Le Kael Bag est hyper bien pensé.<br/><br/>Et là, j’ai vu qu’il existe maintenant en vert — je suis à deux doigts de craquer pour l’emmener en voyage !<br/><br/>En tout cas, je suis vraiment fan de cette marque. Qualité, style, praticité : tout y est.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,12 +216,51 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_eJXcNj": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7jCUkn": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_k99rJz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_dqRkqf",
         "item_LkBkxD",
-        "item_qcnYcM"
+        "item_qcnYcM",
+        "item_eJXcNj",
+        "item_7jCUkn",
+        "item_k99rJz"
       ],
       "settings": {
         "full_width": true,
