@@ -481,6 +481,34 @@
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
+        "item_hymK6n": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_6jpVJL": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_Cyw8UG": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_MKMHmt": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "item_4gRcVz": {
           "type": "item",
           "settings": {
@@ -492,6 +520,10 @@
       "block_order": [
         "item_TnGCHt",
         "item_96aEc9",
+        "item_hymK6n",
+        "item_6jpVJL",
+        "item_Cyw8UG",
+        "item_MKMHmt",
         "item_4gRcVz"
       ],
       "settings": {
