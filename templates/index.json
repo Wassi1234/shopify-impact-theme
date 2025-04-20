@@ -222,6 +222,7 @@
         "item_eJXcNj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/original_2.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -234,6 +235,7 @@
         "item_7jCUkn": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/original_1.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -246,6 +248,7 @@
         "item_k99rJz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_2_bd4aecb9-2325-491b-82db-8fd77cb55fc1.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
