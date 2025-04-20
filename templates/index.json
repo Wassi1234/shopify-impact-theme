@@ -501,6 +501,13 @@
             "title": "Est-ce qu’il passe en cabine pour voyager ?",
             "content": "<p>Tout à fait. Le Kael Bag en taille M  est le compagnon idéal pour vos déplacements : Format accepté en cabine Sangle arrière pour le fixer sur une valise Assez spacieux pour un week-end entier, sans surcharger Un vrai sac à tout faire, stylé et fonctionnel.</p>"
           }
+        },
+        "item_Phgydz": {
+          "type": "item",
+          "settings": {
+            "title": "Comment je l’entretiens ?",
+            "content": "<p>Ultra simple.<br/><br/>Un coup de chiffon humide suffit pour la majorité des tâches. Le néoprène sèche rapidement et ne retient pas les odeurs.<br/><br/><strong>C’est l’un des sacs les plus faciles à vivre au quotidien.</strong></p>"
+          }
         }
       },
       "block_order": [
@@ -508,7 +515,8 @@
         "item_96aEc9",
         "item_4gRcVz",
         "item_Cj6GmL",
-        "item_fAP8k9"
+        "item_fAP8k9",
+        "item_Phgydz"
       ],
       "settings": {
         "full_width": true,
