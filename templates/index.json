@@ -399,6 +399,52 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_dpJQFQ": {
+      "type": "tabs",
+      "blocks": {
+        "tab_texKNk": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_xGNm7J": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_WB97jH": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_texKNk",
+        "tab_xGNm7J",
+        "tab_WB97jH"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -409,6 +455,7 @@
     "rich_text_bbpk4K",
     "image_with_text_overlay_DcR7Af",
     "multi_column_agjUMn",
-    "featured_product_fM4YaM"
+    "featured_product_fM4YaM",
+    "tabs_dpJQFQ"
   ]
 }
