@@ -133,7 +133,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_bbpk4K": {
@@ -173,8 +173,8 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#d2b48c",
-        "overlay_opacity": 0
+        "overlay_color": "#000000",
+        "overlay_opacity": 2
       }
     },
     "multi_column_agjUMn": {
