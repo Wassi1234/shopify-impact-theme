@@ -107,9 +107,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Nous contacter",
+            "content": "<p><strong>Service client :</strong> <a>lorecamden@gmail.com</a></p><p><strong>Horaires d’ouverture :</strong></p><p><strong>Lundi à vendredi</strong> : 9h00 – 12h00 / 14h00 –18h00<br/><strong>Samedi et dimanche</strong> : 10h00 – 12h00</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
