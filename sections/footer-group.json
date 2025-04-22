@@ -20,7 +20,7 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
+            "icon_background_type": "circle",
             "icon_background": "#d2b48c",
             "icon_color": "",
             "title": "Livraison Gratuite",
@@ -30,14 +30,14 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
+            "icon_background_type": "circle",
+            "icon_background": "#d2b48c",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Satisfait ou remboursé",
+            "content": "<p>.</p>"
           }
         },
         "discount": {
