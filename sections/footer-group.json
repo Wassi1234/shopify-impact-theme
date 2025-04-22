@@ -21,10 +21,10 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
-            "icon_background": "",
+            "icon_background": "#d2b48c",
             "icon_color": "",
             "title": "Livraison Gratuite",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "content": ""
           }
         },
         "customer-support": {
