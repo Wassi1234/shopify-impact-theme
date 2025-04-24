@@ -47,6 +47,7 @@
     "show_discount": false,
     "product_color_display": "swatch",
     "product_info_alignment": "start",
+    "favicon": "shopify://shop_images/IMG_1426.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
