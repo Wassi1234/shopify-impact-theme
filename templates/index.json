@@ -136,24 +136,41 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_bbpk4K": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Yg3VAB": {
+          "type": "heading",
+          "settings": {
+            "text": "Un sac, mille possibilités",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yg3VAB"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_tUwx9x": {
       "type": "video",
       "blocks": {
         "play_Ne4XM4": {
           "type": "play",
           "settings": {}
-        },
-        "heading_4fiJAA": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_Ne4XM4",
-        "heading_4fiJAA"
+        "play_Ne4XM4"
       ],
       "name": "Video",
       "settings": {
@@ -168,33 +185,9 @@
         "overlay_opacity": 30
       }
     },
-    "rich_text_bbpk4K": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KWw7Cg": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultat Avant/Après",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_KWw7Cg"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_DcR7Af": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -613,8 +606,8 @@
     "logo_list_cTykHT",
     "rich_text_7XAHFp",
     "image_with_text_overlay_pKjBHQ",
-    "video_tUwx9x",
     "rich_text_bbpk4K",
+    "video_tUwx9x",
     "image_with_text_overlay_DcR7Af",
     "multi_column_agjUMn",
     "featured_product_fM4YaM",
