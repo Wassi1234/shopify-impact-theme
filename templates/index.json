@@ -188,15 +188,15 @@
     "image_with_text_overlay_DcR7Af": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "liquid_NGUamw": {
+        "liquid_JxUhLH": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  video {\n    border-radius: 20px;\n    overflow: hidden;\n  }\n</style>"
+            "liquid": "<p>Use this text to output some custom Liquid code to include widget or dynamic code.</p>"
           }
         }
       },
       "block_order": [
-        "liquid_NGUamw"
+        "liquid_JxUhLH"
       ],
       "disabled": true,
       "settings": {
