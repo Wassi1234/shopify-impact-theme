@@ -187,6 +187,17 @@
     },
     "image_with_text_overlay_DcR7Af": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "liquid_NGUamw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  video {\n    border-radius: 20px;\n    overflow: hidden;\n  }\n</style>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_NGUamw"
+      ],
       "disabled": true,
       "settings": {
         "full_width": true,
