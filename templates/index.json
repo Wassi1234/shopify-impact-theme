@@ -216,19 +216,6 @@
     "multi_column_agjUMn": {
       "type": "multi-column",
       "blocks": {
-        "item_eJXcNj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Copie_de_sac_kaki_5.jpg",
-            "column_size": "3",
-            "title": "Léa.C",
-            "heading_tag": "h4",
-            "content": "<p>Je l’utilise pour aller au travail, faire les courses, partir en week-end... Il est tellement bien conçu ! Les rangements sont hyper pratiques, et le design minimaliste va avec toutes mes tenues. J’ai pris la couleur camel , mais je pense déjà au prochain...</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_qcnYcM": {
           "type": "item",
           "settings": {
@@ -296,7 +283,6 @@
         }
       },
       "block_order": [
-        "item_eJXcNj",
         "item_qcnYcM",
         "item_LkBkxD",
         "item_dqRkqf",
