@@ -60,11 +60,13 @@
     <buy-buttons template="{{ product.template_suffix }}" form="{{ product_form_id }}" force-secondary-button class="sm:hidden">
       {%- render 'button', type: 'submit', content: button_label, form: product_form_id, background: buy_buttons_block.settings.atc_button_background, text_color: buy_buttons_block.settings.atc_button_text_color, secondary: true, stretch: true, size: 'lg' -%}
     </buy-buttons>
-<div class="payment-icons" style="display:flex;gap:10px;margin-top:20px;">
-  <img src="https://cdn.shopify.com/s/files/1/0680/4150/7113/files/paiement-securise.png" alt="Paiement sécurisé" height="32">
-  <img src="https://cdn.shopify.com/s/files/1/0680/4150/7113/files/livraison-gratuite.png" alt="Livraison gratuite" height="32">
-  <img src="https://cdn.shopify.com/s/files/1/0680/4150/7113/files/satisfait-rembourse.png" alt="Satisfait ou remboursé" height="32">
+<button> Achetez maintenant </button>
+<div class="payment-badges">
+  <img src="{{ 'badge-visa.png' | asset_url }}" alt="Visa">
+  <img src="{{ 'badge-mastercard.png' | asset_url }}" alt="MasterCard">
+  <!-- Ajoutez d'autres badges ici -->
 </div>
+
     
     {%- assign image = product.selected_or_first_available_variant.featured_media | default: product.featured_media -%}
 
