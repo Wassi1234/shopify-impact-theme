@@ -65,6 +65,7 @@
   <img src="https://cdn.shopify.com/s/files/1/0680/4150/7113/files/livraison-gratuite.png" alt="Livraison gratuite" height="32">
   <img src="https://cdn.shopify.com/s/files/1/0680/4150/7113/files/satisfait-rembourse.png" alt="Satisfait ou remboursé" height="32">
 </div>
+    
     {%- assign image = product.selected_or_first_available_variant.featured_media | default: product.featured_media -%}
 
     <div class="product-quick-add__variant {% if image == blank %}no-image{% endif %} hidden sm:grid">
