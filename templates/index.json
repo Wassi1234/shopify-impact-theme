@@ -216,14 +216,14 @@
     "multi_column_agjUMn": {
       "type": "multi-column",
       "blocks": {
-        "item_aVYNDA": {
+        "item_zaDnHE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/original.webp",
+            "image": "shopify://shop_images/original_3.webp",
             "column_size": "3",
-            "title": "hugo",
+            "title": "jad",
             "heading_tag": "h4",
-            "content": "<p>Super sac ! Il offre bien plus de rangement que ce à quoi on s'attend. Pratique, avec un mousqueton pour les clés, un emplacement dédié pour le téléphone et des pochettes pour tous vos accessoires. Parfait pour organiser vos essentiels avec style !</p>",
+            "content": "<p>Un sac parfait pour les femmes qui ont une vie bien remplie ! Entre le boulot, les enfants et les rendez-vous, ce sac m'accompagne partout. Il est spacieux et organise mes essentiels, avec des compartiments bien pensés pour tout garder à portée de main. Fonctionnel, pratique et élégant, il me facilite la vie au quotidien !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -250,6 +250,19 @@
             "title": "amir",
             "heading_tag": "h4",
             "content": "<p>Idéal pour les voyages ! Je l’ai emporté partout, et il a parfaitement su accueillir toutes mes affaires essentielles. Des poches pour tout organiser. Un sac pratique et stylé, parfait pour toutes mes escapades </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aVYNDA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/original.webp",
+            "column_size": "3",
+            "title": "hugo",
+            "heading_tag": "h4",
+            "content": "<p>Super sac ! Il offre bien plus de rangement que ce à quoi on s'attend. Pratique, avec un mousqueton pour les clés, un emplacement dédié pour le téléphone et des pochettes pour tous vos accessoires. Parfait pour organiser vos essentiels avec style !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -307,19 +320,6 @@
             "link_style": "link"
           }
         },
-        "item_zaDnHE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/original_3.webp",
-            "column_size": "3",
-            "title": "jad",
-            "heading_tag": "h4",
-            "content": "<p>Un sac parfait pour les femmes qui ont une vie bien remplie ! Entre le boulot, les enfants et les rendez-vous, ce sac m'accompagne partout. Il est spacieux et organise mes essentiels, avec des compartiments bien pensés pour tout garder à portée de main. Fonctionnel, pratique et élégant, il me facilite la vie au quotidien !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_k99rJz": {
           "type": "item",
           "settings": {
@@ -335,14 +335,14 @@
         }
       },
       "block_order": [
-        "item_aVYNDA",
+        "item_zaDnHE",
         "item_qcnYcM",
         "item_GVJDz9",
+        "item_aVYNDA",
         "item_LkBkxD",
         "item_eLfW77",
         "item_dqRkqf",
         "item_7jCUkn",
-        "item_zaDnHE",
         "item_k99rJz"
       ],
       "settings": {
