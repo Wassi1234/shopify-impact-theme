@@ -242,6 +242,32 @@
             "link_style": "link"
           }
         },
+        "item_LkBkxD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_sac_kaki_4.jpg",
+            "column_size": "3",
+            "title": "Morgan .f",
+            "heading_tag": "h4",
+            "content": "<p>J’ai commandé le Kaelbag en taille M  parce que je suis du genre à trop en emporter, et il a été PARFAIT pour le week-end de mariage de ma sœur. J’ai pu y glisser tous mes vêtements, mon sèche-cheveux, et même toutes les affaires de mon tout-petit… avec encore de la place disponible !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dqRkqf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_sac_kaki_8.jpg",
+            "column_size": "3",
+            "title": "julien.B",
+            "heading_tag": "h4",
+            "content": "<p><strong>Le sac parfait, vraiment !</strong><br/><br/>Je cherchais un sac polyvalent, assez stylé pour mes rendez-vous pro mais aussi pratique pour mes trajets quotidiens. Le Kaelbag remplit parfaitement ce rôle. Léger, solide, et super bien compartimenté. Je l’emmène partout, du bureau à la salle de sport.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_GVJDz9": {
           "type": "item",
           "settings": {
@@ -268,19 +294,6 @@
             "link_style": "link"
           }
         },
-        "item_LkBkxD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Copie_de_sac_kaki_4.jpg",
-            "column_size": "3",
-            "title": "Morgan .f",
-            "heading_tag": "h4",
-            "content": "<p>J’ai commandé le Kaelbag en taille M  parce que je suis du genre à trop en emporter, et il a été PARFAIT pour le week-end de mariage de ma sœur. J’ai pu y glisser tous mes vêtements, mon sèche-cheveux, et même toutes les affaires de mon tout-petit… avec encore de la place disponible !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_eLfW77": {
           "type": "item",
           "settings": {
@@ -289,19 +302,6 @@
             "title": "joseph",
             "heading_tag": "h4",
             "content": "<p>Parfait pour les escapades ! Ce sac est super pratique avec ses multiples compartiments qui me permettent de garder tout à portée de main. Que ce soit pour une journée de visite ou un vol long-courrier, il est assez spacieux pour tout emporter tout en restant compact. Confort et style réunis !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dqRkqf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Copie_de_sac_kaki_8.jpg",
-            "column_size": "3",
-            "title": "julien.B",
-            "heading_tag": "h4",
-            "content": "<p><strong>Le sac parfait, vraiment !</strong><br/><br/>Je cherchais un sac polyvalent, assez stylé pour mes rendez-vous pro mais aussi pratique pour mes trajets quotidiens. Le Kaelbag remplit parfaitement ce rôle. Léger, solide, et super bien compartimenté. Je l’emmène partout, du bureau à la salle de sport.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -337,11 +337,11 @@
       "block_order": [
         "item_zaDnHE",
         "item_qcnYcM",
+        "item_LkBkxD",
+        "item_dqRkqf",
         "item_GVJDz9",
         "item_aVYNDA",
-        "item_LkBkxD",
         "item_eLfW77",
-        "item_dqRkqf",
         "item_7jCUkn",
         "item_k99rJz"
       ],
