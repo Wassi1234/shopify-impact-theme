@@ -127,8 +127,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Beige_Beauty_Skincare_Product_Features_Benefits_Instagram_Post_3.jpg",
-        "mobile_image": "shopify://shop_images/Beige_Beauty_Skincare_Product_Features_Benefits_Instagram_Post_3.jpg",
+        "image": "shopify://shop_images/Beige_Beauty_Skincare_Product_Features_Benefits_Instagram_Post_4.jpg",
+        "mobile_image": "shopify://shop_images/Beige_Beauty_Skincare_Product_Features_Benefits_Instagram_Post_4.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -596,6 +596,21 @@
         "button_background": "#d2b48c",
         "button_text_color": "#1a1a1a"
       }
+    },
+    "press_dDPzXa": {
+      "type": "press",
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
@@ -610,6 +625,7 @@
     "featured_product_fM4YaM",
     "tabs_dpJQFQ",
     "faq_zJnDLL",
-    "contact_i6cihN"
+    "contact_i6cihN",
+    "press_dDPzXa"
   ]
 }
