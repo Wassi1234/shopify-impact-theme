@@ -441,6 +441,14 @@
         "image_x838ww": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_HEAVENLY_WARS_TABLIER_370_x_48_px4.jpg",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_BFQTin": {
+          "type": "image",
+          "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-04-22_a_04.06.00.png",
             "alignment": "center",
             "max_width": 500
@@ -465,6 +473,7 @@
         "quantity_selector_jE9iRM",
         "buy_buttons_pF98Ja",
         "image_x838ww",
+        "image_BFQTin",
         "pickup_availability_UyiRUY"
       ],
       "settings": {
